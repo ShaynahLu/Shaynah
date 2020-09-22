@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/ShaynahLu/Shaynah.git</id>
+    <id>https://github.com/ShaynahLu/Shaynah</id>
     <title>Shaynah&apos;s home</title>
-    <updated>2020-09-22T09:55:57.841Z</updated>
+    <updated>2020-09-22T10:31:35.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/ShaynahLu/Shaynah.git"/>
-    <link rel="self" href="https://github.com/ShaynahLu/Shaynah.git/atom.xml"/>
+    <link rel="alternate" href="https://github.com/ShaynahLu/Shaynah"/>
+    <link rel="self" href="https://github.com/ShaynahLu/Shaynah/atom.xml"/>
     <subtitle>南国月生</subtitle>
-    <logo>https://github.com/ShaynahLu/Shaynah.git/images/avatar.png</logo>
-    <icon>https://github.com/ShaynahLu/Shaynah.git/favicon.ico</icon>
+    <logo>https://github.com/ShaynahLu/Shaynah/images/avatar.png</logo>
+    <icon>https://github.com/ShaynahLu/Shaynah/favicon.ico</icon>
     <rights>All rights reserved 2020, Shaynah&apos;s home</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/ShaynahLu/Shaynah.git/post/hello-gridea/</id>
-        <link href="https://github.com/ShaynahLu/Shaynah.git/post/hello-gridea/">
+        <id>https://github.com/ShaynahLu/Shaynah/post/hello-gridea/</id>
+        <link href="https://github.com/ShaynahLu/Shaynah/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
