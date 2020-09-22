@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/ShaynahLu/Shaynah</id>
     <title>Shaynah&apos;s Home</title>
-    <updated>2020-09-22T10:36:21.812Z</updated>
+    <updated>2020-09-22T10:39:41.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/ShaynahLu/Shaynah"/>
     <link rel="self" href="https://github.com/ShaynahLu/Shaynah/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://github.com/ShaynahLu/Shaynah/images/avatar.png</logo>
     <icon>https://github.com/ShaynahLu/Shaynah/favicon.ico</icon>
     <rights>All rights reserved 2020, Shaynah&apos;s Home</rights>
+    <entry>
+        <title type="html"><![CDATA[时态]]></title>
+        <id>https://github.com/ShaynahLu/Shaynah/post/shi-tai/</id>
+        <link href="https://github.com/ShaynahLu/Shaynah/post/shi-tai/">
+        </link>
+        <updated>2020-09-22T10:37:11.000Z</updated>
+        <content type="html"><![CDATA[<p>1.时态<br>
+动作的时间+动作的状态<br>
+<img src="https://github.com/ShaynahLu/Shaynah/post-images/1600771175681.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://github.com/ShaynahLu/Shaynah/post/hello-gridea/</id>
